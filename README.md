@@ -7,7 +7,7 @@ Este projeto é uma aplicação para análise de Net Promoter Score (NPS). Ele p
 ### Backend:
 - **C#** com **.NET Core**
 - **Entity Framework Core**
-- Banco de Dados: **MySQL**
+- Banco de Dados: **MariaDB**
 
 ### Frontend:
 - **React.js**
