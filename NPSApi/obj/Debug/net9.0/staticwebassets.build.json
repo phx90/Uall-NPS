@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EnATnt5c94wXQVuCdpG1EMqhd8qQ4+o8O5Q3nz6RgvI=",
+  "Source": "NPSApi",
+  "BasePath": "_content/NPSApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
